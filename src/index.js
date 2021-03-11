@@ -5,7 +5,7 @@ import Page from './containers/page'
 import './style/main.css'
 import configureStore from './redux/store/configure-store'
 
-//comment
+// dummy comment
 const store = configureStore()
 
 render(
